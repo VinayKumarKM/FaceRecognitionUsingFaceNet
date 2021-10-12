@@ -27,7 +27,7 @@ mock==3.0.5
 mtcnn==0.1.0
 numpy==1.17.3
 olefile==0.46
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32
 opt-einsum==0+untagged.49.gdbede45.dirty
 pandas==0.25.2
 parso==0.5.1
