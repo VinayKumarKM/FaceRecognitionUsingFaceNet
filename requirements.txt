@@ -25,7 +25,7 @@ matplotlib==3.1.2
 mkl-service==2.3.0
 mock==3.0.5
 mtcnn==0.1.0
-numpy==1.17.3
+numpy==1.22.0
 olefile==0.46
 opencv-python==4.1.1.26
 opt-einsum==0+untagged.49.gdbede45.dirty
